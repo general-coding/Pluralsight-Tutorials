@@ -1,0 +1,6 @@
+c:\users\puneethumeshbharadwa\documents\visual studio 2013\Projects\EventsDemo\EventsDemo\bin\Debug\EventsDemo.exe.config
+c:\users\puneethumeshbharadwa\documents\visual studio 2013\Projects\EventsDemo\EventsDemo\obj\Debug\EventsDemo.csprojResolveAssemblyReference.cache
+c:\users\puneethumeshbharadwa\documents\visual studio 2013\Projects\EventsDemo\EventsDemo\bin\Debug\EventsDemo.exe
+c:\users\puneethumeshbharadwa\documents\visual studio 2013\Projects\EventsDemo\EventsDemo\bin\Debug\EventsDemo.pdb
+c:\users\puneethumeshbharadwa\documents\visual studio 2013\Projects\EventsDemo\EventsDemo\obj\Debug\EventsDemo.exe
+c:\users\puneethumeshbharadwa\documents\visual studio 2013\Projects\EventsDemo\EventsDemo\obj\Debug\EventsDemo.pdb

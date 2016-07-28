@@ -1,0 +1,6 @@
+c:\users\puneethumeshbharadwa\documents\visual studio 2013\Projects\ImportantOperators\ImportantOperators\bin\Debug\ImportantOperators.exe.config
+c:\users\puneethumeshbharadwa\documents\visual studio 2013\Projects\ImportantOperators\ImportantOperators\bin\Debug\ImportantOperators.exe
+c:\users\puneethumeshbharadwa\documents\visual studio 2013\Projects\ImportantOperators\ImportantOperators\bin\Debug\ImportantOperators.pdb
+c:\users\puneethumeshbharadwa\documents\visual studio 2013\Projects\ImportantOperators\ImportantOperators\obj\Debug\ImportantOperators.csprojResolveAssemblyReference.cache
+c:\users\puneethumeshbharadwa\documents\visual studio 2013\Projects\ImportantOperators\ImportantOperators\obj\Debug\ImportantOperators.exe
+c:\users\puneethumeshbharadwa\documents\visual studio 2013\Projects\ImportantOperators\ImportantOperators\obj\Debug\ImportantOperators.pdb
